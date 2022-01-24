@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866534538589",
+    "project_id": "contatori-d1dd0",
+    "storage_bucket": "contatori-d1dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866534538589:android:639f944f972523c9a3fcb4",
+        "android_client_info": {
+          "package_name": "com.emi.contatori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866534538589-eeaiamuf2j4photeebi603qu1v90i3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4bYwoeS65lasLfHo555xWK6Hf43hOzLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866534538589-eeaiamuf2j4photeebi603qu1v90i3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
